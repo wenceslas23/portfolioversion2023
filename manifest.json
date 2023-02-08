@@ -1,0 +1,1591 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Steffany - Cv Resume Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "HOME MAIN",
+            "screenshot": "screenshots\/home-main.jpg",
+            "source": "templates\/home-main.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/steffany\/template-kit\/home-main\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "RESUME",
+            "screenshot": "screenshots\/resume.jpg",
+            "source": "templates\/resume.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/steffany\/template-kit\/resume\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "ABOUT ME",
+            "screenshot": "screenshots\/about-me.jpg",
+            "source": "templates\/about-me.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/steffany\/template-kit\/about-me\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "SERVICE",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/steffany\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "COMING SOON",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/steffany\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQS",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/steffany\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "PORTFOLIO MULTIPLE",
+            "screenshot": "screenshots\/portfolio-multiple.jpg",
+            "source": "templates\/portfolio-multiple.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/steffany\/template-kit\/portfolio-multiple\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "PORTFOLIO GRID",
+            "screenshot": "screenshots\/portfolio-grid.jpg",
+            "source": "templates\/portfolio-grid.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/steffany\/template-kit\/portfolio-grid\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "PRICING",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/steffany\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CONTACT",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/steffany\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Steffany - Archive",
+            "screenshot": "screenshots\/steffany-archive.jpg",
+            "source": "templates\/steffany-archive.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/steffany\/?elementor_library=steffany-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Steffany - Single Post",
+            "screenshot": "screenshots\/steffany-single-post.jpg",
+            "source": "templates\/steffany-single-post.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/steffany\/?elementor_library=steffany-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Steffany - Header",
+            "screenshot": "screenshots\/steffany-header.jpg",
+            "source": "templates\/steffany-header.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/steffany\/?elementor_library=steffany-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Steffany - Footer",
+            "screenshot": "screenshots\/steffany-footer.jpg",
+            "source": "templates\/steffany-footer.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/steffany\/?elementor_library=steffany-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.7.0",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.7.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "background-1-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/background-1-1-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/resume.json",
+                    "name": "RESUME"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "SERVICE"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQS"
+                },
+                {
+                    "source": "templates\/portfolio-multiple.json",
+                    "name": "PORTFOLIO MULTIPLE"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "PORTFOLIO GRID"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "PRICING"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "CONTACT"
+                },
+                {
+                    "source": "templates\/steffany-archive.json",
+                    "name": "Steffany - Archive"
+                },
+                {
+                    "source": "templates\/steffany-single-post.json",
+                    "name": "Steffany - Single Post"
+                }
+            ],
+            "filesize": 151995,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "photo-1-4.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/photo-1-4-800x917.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                }
+            ],
+            "filesize": 213678,
+            "dimensions": [
+                853,
+                978
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-1-6.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-1-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "SERVICE"
+                }
+            ],
+            "filesize": 45553,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-2-14.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-2-14.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "SERVICE"
+                }
+            ],
+            "filesize": 42079,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-3-4.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-3-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "SERVICE"
+                }
+            ],
+            "filesize": 37719,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "photo-3.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/photo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                }
+            ],
+            "filesize": 167273,
+            "dimensions": [
+                705,
+                783
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-16-4.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-16-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                }
+            ],
+            "filesize": 16722,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "photo-5-3.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/photo-5-3-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                }
+            ],
+            "filesize": 67181,
+            "dimensions": [
+                946,
+                946
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "graphic-4.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/graphic-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                }
+            ],
+            "filesize": 9377,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "team8.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/team8-800x304.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                }
+            ],
+            "filesize": 452162,
+            "dimensions": [
+                946,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-4-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-4-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "SERVICE"
+                }
+            ],
+            "filesize": 2991,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-10-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-10-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "SERVICE"
+                }
+            ],
+            "filesize": 5005,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-6-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-6-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "SERVICE"
+                }
+            ],
+            "filesize": 1785,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-5-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-5-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "SERVICE"
+                }
+            ],
+            "filesize": 1926,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-9-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-9-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "SERVICE"
+                }
+            ],
+            "filesize": 2671,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-8-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-8-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "SERVICE"
+                }
+            ],
+            "filesize": 2702,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-7-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-7-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "SERVICE"
+                }
+            ],
+            "filesize": 2847,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-11-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-11-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "SERVICE"
+                }
+            ],
+            "filesize": 2466,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "photo-2-2.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/photo-2-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                }
+            ],
+            "filesize": 158391,
+            "dimensions": [
+                635,
+                978
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-17-2.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-17-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                }
+            ],
+            "filesize": 25132,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-18-4.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-18-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                }
+            ],
+            "filesize": 26121,
+            "dimensions": [
+                300,
+                237
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "graphic-3.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/graphic-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                }
+            ],
+            "filesize": 9191,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-19-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-19-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                }
+            ],
+            "filesize": 18442,
+            "dimensions": [
+                300,
+                237
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "logo-6.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/logo-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/resume.json",
+                    "name": "RESUME"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                },
+                {
+                    "source": "templates\/portfolio-multiple.json",
+                    "name": "PORTFOLIO MULTIPLE"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "PORTFOLIO GRID"
+                }
+            ],
+            "filesize": 6949,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/resume.json",
+                    "name": "RESUME"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                },
+                {
+                    "source": "templates\/portfolio-multiple.json",
+                    "name": "PORTFOLIO MULTIPLE"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "PORTFOLIO GRID"
+                }
+            ],
+            "filesize": 6037,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "logo-4.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/resume.json",
+                    "name": "RESUME"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                },
+                {
+                    "source": "templates\/portfolio-multiple.json",
+                    "name": "PORTFOLIO MULTIPLE"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "PORTFOLIO GRID"
+                }
+            ],
+            "filesize": 8342,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "team6.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/team6-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/resume.json",
+                    "name": "RESUME"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                }
+            ],
+            "filesize": 81376,
+            "dimensions": [
+                946,
+                946
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "team3.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/team3-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/resume.json",
+                    "name": "RESUME"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                }
+            ],
+            "filesize": 67497,
+            "dimensions": [
+                946,
+                946
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "team5.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/team5-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                }
+            ],
+            "filesize": 85679,
+            "dimensions": [
+                946,
+                946
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/resume.json",
+                    "name": "RESUME"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                },
+                {
+                    "source": "templates\/portfolio-multiple.json",
+                    "name": "PORTFOLIO MULTIPLE"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "PORTFOLIO GRID"
+                }
+            ],
+            "filesize": 8615,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "logo-5.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/resume.json",
+                    "name": "RESUME"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                },
+                {
+                    "source": "templates\/portfolio-multiple.json",
+                    "name": "PORTFOLIO MULTIPLE"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "PORTFOLIO GRID"
+                }
+            ],
+            "filesize": 4121,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/resume.json",
+                    "name": "RESUME"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                },
+                {
+                    "source": "templates\/portfolio-multiple.json",
+                    "name": "PORTFOLIO MULTIPLE"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "PORTFOLIO GRID"
+                }
+            ],
+            "filesize": 6404,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "photo-4.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/photo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                },
+                {
+                    "source": "templates\/portfolio-multiple.json",
+                    "name": "PORTFOLIO MULTIPLE"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "PORTFOLIO GRID"
+                }
+            ],
+            "filesize": 209959,
+            "dimensions": [
+                570,
+                751
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-14-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-14-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "SERVICE"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "CONTACT"
+                }
+            ],
+            "filesize": 14074,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-13-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-13-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "SERVICE"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "CONTACT"
+                }
+            ],
+            "filesize": 3215,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-12-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-12-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "SERVICE"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "CONTACT"
+                }
+            ],
+            "filesize": 2527,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-15-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-15-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-main.json",
+                    "name": "HOME MAIN"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "SERVICE"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "CONTACT"
+                }
+            ],
+            "filesize": 9327,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "photo-5-2.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/photo-5-2-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/resume.json",
+                    "name": "RESUME"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "CONTACT"
+                },
+                {
+                    "source": "templates\/steffany-single-post.json",
+                    "name": "Steffany - Single Post"
+                }
+            ],
+            "filesize": 80306,
+            "dimensions": [
+                946,
+                946
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-23.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-23.png",
+            "templates": [
+                {
+                    "source": "templates\/resume.json",
+                    "name": "RESUME"
+                }
+            ],
+            "filesize": 5927,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-21.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-21.png",
+            "templates": [
+                {
+                    "source": "templates\/resume.json",
+                    "name": "RESUME"
+                }
+            ],
+            "filesize": 7858,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-22.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-22.png",
+            "templates": [
+                {
+                    "source": "templates\/resume.json",
+                    "name": "RESUME"
+                }
+            ],
+            "filesize": 4748,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-20.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-20.png",
+            "templates": [
+                {
+                    "source": "templates\/resume.json",
+                    "name": "RESUME"
+                }
+            ],
+            "filesize": 10874,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-24.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-24.png",
+            "templates": [
+                {
+                    "source": "templates\/resume.json",
+                    "name": "RESUME"
+                }
+            ],
+            "filesize": 9928,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "icon-25.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/icon-25.png",
+            "templates": [
+                {
+                    "source": "templates\/resume.json",
+                    "name": "RESUME"
+                }
+            ],
+            "filesize": 5844,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8B2PMDX6QC"
+        },
+        {
+            "filename": "ttd-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/ttd-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "ABOUT ME"
+                }
+            ],
+            "filesize": 8190,
+            "dimensions": [
+                300,
+                127
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "porto-1.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/porto-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-multiple.json",
+                    "name": "PORTFOLIO MULTIPLE"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "PORTFOLIO GRID"
+                }
+            ],
+            "filesize": 149267,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "porto-2.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/porto-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-multiple.json",
+                    "name": "PORTFOLIO MULTIPLE"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "PORTFOLIO GRID"
+                }
+            ],
+            "filesize": 92011,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "porto-3.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/porto-3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-multiple.json",
+                    "name": "PORTFOLIO MULTIPLE"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "PORTFOLIO GRID"
+                }
+            ],
+            "filesize": 105870,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "porto-4.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/porto-4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-multiple.json",
+                    "name": "PORTFOLIO MULTIPLE"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "PORTFOLIO GRID"
+                }
+            ],
+            "filesize": 101983,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "porto-5.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/porto-5-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-multiple.json",
+                    "name": "PORTFOLIO MULTIPLE"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "PORTFOLIO GRID"
+                }
+            ],
+            "filesize": 133183,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "porto-6.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/porto-6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-multiple.json",
+                    "name": "PORTFOLIO MULTIPLE"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "PORTFOLIO GRID"
+                }
+            ],
+            "filesize": 142973,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "porto-7.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/porto-7-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-multiple.json",
+                    "name": "PORTFOLIO MULTIPLE"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "PORTFOLIO GRID"
+                }
+            ],
+            "filesize": 128974,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "porto-8.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/porto-8-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-multiple.json",
+                    "name": "PORTFOLIO MULTIPLE"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "PORTFOLIO GRID"
+                }
+            ],
+            "filesize": 137509,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "porto-9.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/porto-9-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-multiple.json",
+                    "name": "PORTFOLIO MULTIPLE"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "PORTFOLIO GRID"
+                }
+            ],
+            "filesize": 78354,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-steffany-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/steffany\/wp-content\/uploads\/sites\/55\/2022\/09\/logo-steffany-1.png",
+            "templates": [
+                {
+                    "source": "templates\/steffany-header.json",
+                    "name": "Steffany - Header"
+                },
+                {
+                    "source": "templates\/steffany-footer.json",
+                    "name": "Steffany - Footer"
+                }
+            ],
+            "filesize": 5781,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
